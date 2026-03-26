@@ -7,7 +7,7 @@ int main () {
     // char ch;           // we use it for finding ASCII values
     // cin>>ch;           //it is the code for finding  ASCII values
     // cout<<(int)ch;    // we made character to integer  
-                      // We input: (a----z, A---Z , !,@,#,$,%,^,* etc) and output ((40,50,55,100,83)  
+    //                  // We input: (a----z, A---Z , !,@,#,$,%,^,* etc) and output ((40,50,55,100,83)  
     //  OR      
                 
       char ch;

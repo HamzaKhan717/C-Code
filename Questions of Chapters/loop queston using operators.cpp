@@ -128,13 +128,13 @@ int main () {  // it is the code for counting numbers /digits
 // }
 //////////////////////
     
-//     int i=65;
-//    while(i<=90){            //it is integer to character
-//    cout <<i<<" ";
-//    char ch =char(i);
-//    cout <<ch<<endl;
-//    i++;
-// }
+    int i=65;
+   while(i<=90){            //it is integer to character
+   cout <<i<<" ";
+   char ch =char(i);
+   cout <<ch<<endl;
+   i++;
+}
 
 
 }
